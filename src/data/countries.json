@@ -1,0 +1,51 @@
+[
+
+  {
+    "id": 1,
+    "name": "Andijon"
+  },
+  {
+     "id": 2,
+    "name": "Buxoro"
+  },
+  {
+     "id": 3,
+    "name": "Farg'one"
+  },
+  {
+     "id": 4,
+    "name": "Jizzax"
+  },
+  {
+     "id": 5,
+    "name": "Xorazm"
+  },
+  {
+     "id": 6,
+    "name": "Namangan"
+  },
+  {
+     "id": 7,
+    "name": "Navoi"
+  },
+  {
+     "id": 8,
+    "name": "Qashqadaryo"
+  },
+  {
+     "id": 9,
+    "name": "Samarqand"
+  },
+  {
+     "id": 10,
+    "name": "Sirdaryo"
+  },
+  {
+     "id": 11,
+    "name": "Surxandaryo"
+  },
+  {
+     "id": 12,
+    "name": "Toshkent"
+  }
+]

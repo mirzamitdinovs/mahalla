@@ -1,0 +1,63 @@
+[
+
+  {
+    "district_id": 1,
+    "id": 1,
+    "name": "Do'pi topti"
+  },
+  {
+    "district_id": 1,
+     "id": 2,
+    "name": "Yangi bozor"
+  },
+  {
+    "district_id": 2,
+     "id": 3,
+    "name": "Tanga topti"
+  },
+  {
+    "district_id": 2,
+     "id": 4,
+    "name": "Eski bozor"
+  },
+  {
+    "district_id": 3,
+     "id": 5,
+    "name": "Qattiq qurt"
+  },
+  {
+    "district_id": 3,
+     "id": 6,
+    "name": "Jonajon vatanim"
+  },
+  {
+    "district_id": 4,
+     "id": 7,
+    "name": "Ketmon topti"
+  },
+  {
+    "district_id": 4,
+     "id": 8,
+    "name": "Ozodlik"
+  },
+  {
+    "district_id": 5,
+     "id": 9,
+    "name": "Olma topti"
+  },
+  {
+    "district_id": 5,
+     "id": 10,
+    "name": "Chaqa chaq"
+  },
+  {
+    "district_id": 6,
+     "id": 11,
+    "name": "Amir temir"
+  },
+  {
+    "district_id": 6,
+     "id": 12,
+    "name": "Bixoriy"
+  }
+]
